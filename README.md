@@ -2,6 +2,11 @@
 
 以瀏覽器操作的互動式迴歸分析網頁，使用奶茶大地色介面呈現 50 Startups、Boston Housing 與自訂 CSV 資料集。無須安裝 Flask 或啟動後端，開啟 `index.html` 即可使用。
 
+## GitHub 專案
+
+- 儲存庫：[https://github.com/susuannie/1014](https://github.com/susuannie/1014)
+- Live Demo：[https://susuannie.github.io/1014/](https://susuannie.github.io/1014/)
+
 ## 畫面預覽
 
 ![多元線性迴歸分析器：Boston Housing 與資料集切換畫面](./preview.png)
